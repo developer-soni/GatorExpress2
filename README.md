@@ -14,6 +14,7 @@
 
 ## Deployed on AWS
 https://ec2-44-205-80-79.compute-1.amazonaws.com/
+Code files for private use. Cant be shared. Please view documentation. 
 
 ## Description
 Life can be stressful for college students. This is especially true due to the
