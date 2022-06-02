@@ -13,7 +13,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Deployed on AWS
-https://ec2-44-205-80-79.compute-1.amazonaws.com/
+http://ec2-44-205-80-79.compute-1.amazonaws.com/
 
 Code files for private use. Cant be shared. Please view documentation. 
 
